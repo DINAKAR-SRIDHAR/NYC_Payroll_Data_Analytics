@@ -1,0 +1,15 @@
+{
+	"name": "nycpayrolladf-dinakar",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "westus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "9ee4a7a5-f916-4e21-b6c0-f9bcaf1dcb04",
+		"tenantId": "f958e84a-92b8-439f-a62d-4f45996b6d07"
+	}
+}
